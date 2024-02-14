@@ -1,1 +1,6 @@
-# ros2-Raspberry-Pi-Intelligent-Robot
+# Intelligent Vision Robot
+
+### Nodes
+
+    - Publisher
+    - Subscriber
